@@ -1,2 +1,2 @@
 # Website-link-img
-The website i amde that contain links and images.
+The website i made that contain links and images.
